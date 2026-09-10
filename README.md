@@ -1,16 +1,18 @@
-## Hi there 👋
+### Hey, I'm devonml742 👋
 
-<!--
-**devonml742/devonml742** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend engineer based in Stockholm, currently writing services at Tech Labs.
 
-Here are some ideas to get you started:
+#### What I'm doing
+- 🔨 Building distributed microservices, REST/gRPC APIs, and data pipelines.
+- 📖 Digging deeper into Go concurrency patterns and Postgres query optimization.
+- ☕ Converting coffee into SQL queries that run under 5ms.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Daily Drivers
+- **Languages:** Go, Python, SQL
+- **Frameworks & Libs:** FastAPI, Chi/Gin, Pydantic, SQLAlchemy
+- **Data & Caching:** PostgreSQL, Redis
+- **Infra & Tooling:** Docker, Linux, GitHub Actions
+
+#### Contact
+- Reach me via email: `devon.dev742@gmail.com`
+- Or drop PR/issue on any public repo here.
